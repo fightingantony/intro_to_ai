@@ -83,3 +83,4 @@ if __name__ == '__main__':
     print(f'The number of path nodes: {len(path)}')
     print(f'Total distance of path: {dist}')
     print(f'The number of visited nodes: {num_visited}')
+
